@@ -9,4 +9,4 @@
 // considered appropriate and secure for password hashing if used correctly
 // (ie: appropriately high cost factor, secure hashing algorithm, unique salt per password).
 //
-package pwdhash // import "github.com/smotes/pwdhash"
+package pwdhash // import "github.com/schollz/pwdhash"
